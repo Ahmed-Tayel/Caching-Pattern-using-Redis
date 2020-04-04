@@ -1,0 +1,3024 @@
+Welcom to Emoji API
+<br>
+In order to get any emojis from the following list, just type its name in URL
+<br>
+1 - +1
+<br>
+2 - -1
+<br>
+3 - 100
+<br>
+4 - 1234
+<br>
+5 - 1st_place_medal
+<br>
+6 - 2nd_place_medal
+<br>
+7 - 3rd_place_medal
+<br>
+8 - 8ball
+<br>
+9 - a
+<br>
+10 - ab
+<br>
+11 - abc
+<br>
+12 - abcd
+<br>
+13 - accept
+<br>
+14 - aerial_tramway
+<br>
+15 - afghanistan
+<br>
+16 - airplane
+<br>
+17 - aland_islands
+<br>
+18 - alarm_clock
+<br>
+19 - albania
+<br>
+20 - alembic
+<br>
+21 - algeria
+<br>
+22 - alien
+<br>
+23 - ambulance
+<br>
+24 - american_samoa
+<br>
+25 - amphora
+<br>
+26 - anchor
+<br>
+27 - andorra
+<br>
+28 - angel
+<br>
+29 - anger
+<br>
+30 - angola
+<br>
+31 - angry
+<br>
+32 - anguilla
+<br>
+33 - anguished
+<br>
+34 - ant
+<br>
+35 - antarctica
+<br>
+36 - antigua_barbuda
+<br>
+37 - apple
+<br>
+38 - aquarius
+<br>
+39 - argentina
+<br>
+40 - aries
+<br>
+41 - armenia
+<br>
+42 - arrow_backward
+<br>
+43 - arrow_double_down
+<br>
+44 - arrow_double_up
+<br>
+45 - arrow_down
+<br>
+46 - arrow_down_small
+<br>
+47 - arrow_forward
+<br>
+48 - arrow_heading_down
+<br>
+49 - arrow_heading_up
+<br>
+50 - arrow_left
+<br>
+51 - arrow_lower_left
+<br>
+52 - arrow_lower_right
+<br>
+53 - arrow_right
+<br>
+54 - arrow_right_hook
+<br>
+55 - arrow_up
+<br>
+56 - arrow_up_down
+<br>
+57 - arrow_up_small
+<br>
+58 - arrow_upper_left
+<br>
+59 - arrow_upper_right
+<br>
+60 - arrows_clockwise
+<br>
+61 - arrows_counterclockwise
+<br>
+62 - art
+<br>
+63 - articulated_lorry
+<br>
+64 - artificial_satellite
+<br>
+65 - aruba
+<br>
+66 - asterisk
+<br>
+67 - astonished
+<br>
+68 - athletic_shoe
+<br>
+69 - atm
+<br>
+70 - atom
+<br>
+71 - atom_symbol
+<br>
+72 - australia
+<br>
+73 - austria
+<br>
+74 - avocado
+<br>
+75 - azerbaijan
+<br>
+76 - b
+<br>
+77 - baby
+<br>
+78 - baby_bottle
+<br>
+79 - baby_chick
+<br>
+80 - baby_symbol
+<br>
+81 - back
+<br>
+82 - bacon
+<br>
+83 - badminton
+<br>
+84 - baggage_claim
+<br>
+85 - baguette_bread
+<br>
+86 - bahamas
+<br>
+87 - bahrain
+<br>
+88 - balance_scale
+<br>
+89 - balloon
+<br>
+90 - ballot_box
+<br>
+91 - ballot_box_with_check
+<br>
+92 - bamboo
+<br>
+93 - banana
+<br>
+94 - bangbang
+<br>
+95 - bangladesh
+<br>
+96 - bank
+<br>
+97 - bar_chart
+<br>
+98 - barbados
+<br>
+99 - barber
+<br>
+100 - baseball
+<br>
+101 - basecamp
+<br>
+102 - basecampy
+<br>
+103 - basketball
+<br>
+104 - basketball_man
+<br>
+105 - basketball_woman
+<br>
+106 - bat
+<br>
+107 - bath
+<br>
+108 - bathtub
+<br>
+109 - battery
+<br>
+110 - beach_umbrella
+<br>
+111 - bear
+<br>
+112 - bed
+<br>
+113 - bee
+<br>
+114 - beer
+<br>
+115 - beers
+<br>
+116 - beetle
+<br>
+117 - beginner
+<br>
+118 - belarus
+<br>
+119 - belgium
+<br>
+120 - belize
+<br>
+121 - bell
+<br>
+122 - bellhop_bell
+<br>
+123 - benin
+<br>
+124 - bento
+<br>
+125 - bermuda
+<br>
+126 - bhutan
+<br>
+127 - bicyclist
+<br>
+128 - bike
+<br>
+129 - biking_man
+<br>
+130 - biking_woman
+<br>
+131 - bikini
+<br>
+132 - biohazard
+<br>
+133 - bird
+<br>
+134 - birthday
+<br>
+135 - black_circle
+<br>
+136 - black_flag
+<br>
+137 - black_heart
+<br>
+138 - black_joker
+<br>
+139 - black_large_square
+<br>
+140 - black_medium_small_square
+<br>
+141 - black_medium_square
+<br>
+142 - black_nib
+<br>
+143 - black_small_square
+<br>
+144 - black_square_button
+<br>
+145 - blonde_man
+<br>
+146 - blonde_woman
+<br>
+147 - blossom
+<br>
+148 - blowfish
+<br>
+149 - blue_book
+<br>
+150 - blue_car
+<br>
+151 - blue_heart
+<br>
+152 - blush
+<br>
+153 - boar
+<br>
+154 - boat
+<br>
+155 - bolivia
+<br>
+156 - bomb
+<br>
+157 - book
+<br>
+158 - bookmark
+<br>
+159 - bookmark_tabs
+<br>
+160 - books
+<br>
+161 - boom
+<br>
+162 - boot
+<br>
+163 - bosnia_herzegovina
+<br>
+164 - botswana
+<br>
+165 - bouquet
+<br>
+166 - bow
+<br>
+167 - bow_and_arrow
+<br>
+168 - bowing_man
+<br>
+169 - bowing_woman
+<br>
+170 - bowling
+<br>
+171 - bowtie
+<br>
+172 - boxing_glove
+<br>
+173 - boy
+<br>
+174 - brazil
+<br>
+175 - bread
+<br>
+176 - bride_with_veil
+<br>
+177 - bridge_at_night
+<br>
+178 - briefcase
+<br>
+179 - british_indian_ocean_territory
+<br>
+180 - british_virgin_islands
+<br>
+181 - broken_heart
+<br>
+182 - brunei
+<br>
+183 - bug
+<br>
+184 - building_construction
+<br>
+185 - bulb
+<br>
+186 - bulgaria
+<br>
+187 - bullettrain_front
+<br>
+188 - bullettrain_side
+<br>
+189 - burkina_faso
+<br>
+190 - burrito
+<br>
+191 - burundi
+<br>
+192 - bus
+<br>
+193 - business_suit_levitating
+<br>
+194 - busstop
+<br>
+195 - bust_in_silhouette
+<br>
+196 - busts_in_silhouette
+<br>
+197 - butterfly
+<br>
+198 - cactus
+<br>
+199 - cake
+<br>
+200 - calendar
+<br>
+201 - call_me_hand
+<br>
+202 - calling
+<br>
+203 - cambodia
+<br>
+204 - camel
+<br>
+205 - camera
+<br>
+206 - camera_flash
+<br>
+207 - cameroon
+<br>
+208 - camping
+<br>
+209 - canada
+<br>
+210 - canary_islands
+<br>
+211 - cancer
+<br>
+212 - candle
+<br>
+213 - candy
+<br>
+214 - canoe
+<br>
+215 - cape_verde
+<br>
+216 - capital_abcd
+<br>
+217 - capricorn
+<br>
+218 - car
+<br>
+219 - card_file_box
+<br>
+220 - card_index
+<br>
+221 - card_index_dividers
+<br>
+222 - caribbean_netherlands
+<br>
+223 - carousel_horse
+<br>
+224 - carrot
+<br>
+225 - cat
+<br>
+226 - cat2
+<br>
+227 - cayman_islands
+<br>
+228 - cd
+<br>
+229 - central_african_republic
+<br>
+230 - chad
+<br>
+231 - chains
+<br>
+232 - champagne
+<br>
+233 - chart
+<br>
+234 - chart_with_downwards_trend
+<br>
+235 - chart_with_upwards_trend
+<br>
+236 - checkered_flag
+<br>
+237 - cheese
+<br>
+238 - cherries
+<br>
+239 - cherry_blossom
+<br>
+240 - chestnut
+<br>
+241 - chicken
+<br>
+242 - children_crossing
+<br>
+243 - chile
+<br>
+244 - chipmunk
+<br>
+245 - chocolate_bar
+<br>
+246 - christmas_island
+<br>
+247 - christmas_tree
+<br>
+248 - church
+<br>
+249 - cinema
+<br>
+250 - circus_tent
+<br>
+251 - city_sunrise
+<br>
+252 - city_sunset
+<br>
+253 - cityscape
+<br>
+254 - cl
+<br>
+255 - clamp
+<br>
+256 - clap
+<br>
+257 - clapper
+<br>
+258 - classical_building
+<br>
+259 - clinking_glasses
+<br>
+260 - clipboard
+<br>
+261 - clock1
+<br>
+262 - clock10
+<br>
+263 - clock1030
+<br>
+264 - clock11
+<br>
+265 - clock1130
+<br>
+266 - clock12
+<br>
+267 - clock1230
+<br>
+268 - clock130
+<br>
+269 - clock2
+<br>
+270 - clock230
+<br>
+271 - clock3
+<br>
+272 - clock330
+<br>
+273 - clock4
+<br>
+274 - clock430
+<br>
+275 - clock5
+<br>
+276 - clock530
+<br>
+277 - clock6
+<br>
+278 - clock630
+<br>
+279 - clock7
+<br>
+280 - clock730
+<br>
+281 - clock8
+<br>
+282 - clock830
+<br>
+283 - clock9
+<br>
+284 - clock930
+<br>
+285 - closed_book
+<br>
+286 - closed_lock_with_key
+<br>
+287 - closed_umbrella
+<br>
+288 - cloud
+<br>
+289 - cloud_with_lightning
+<br>
+290 - cloud_with_lightning_and_rain
+<br>
+291 - cloud_with_rain
+<br>
+292 - cloud_with_snow
+<br>
+293 - clown_face
+<br>
+294 - clubs
+<br>
+295 - cn
+<br>
+296 - cocktail
+<br>
+297 - cocos_islands
+<br>
+298 - coffee
+<br>
+299 - coffin
+<br>
+300 - cold_sweat
+<br>
+301 - collision
+<br>
+302 - colombia
+<br>
+303 - comet
+<br>
+304 - comoros
+<br>
+305 - computer
+<br>
+306 - computer_mouse
+<br>
+307 - confetti_ball
+<br>
+308 - confounded
+<br>
+309 - confused
+<br>
+310 - congo_brazzaville
+<br>
+311 - congo_kinshasa
+<br>
+312 - congratulations
+<br>
+313 - construction
+<br>
+314 - construction_worker
+<br>
+315 - construction_worker_man
+<br>
+316 - construction_worker_woman
+<br>
+317 - control_knobs
+<br>
+318 - convenience_store
+<br>
+319 - cook_islands
+<br>
+320 - cookie
+<br>
+321 - cool
+<br>
+322 - cop
+<br>
+323 - copyright
+<br>
+324 - corn
+<br>
+325 - costa_rica
+<br>
+326 - cote_divoire
+<br>
+327 - couch_and_lamp
+<br>
+328 - couple
+<br>
+329 - couple_with_heart
+<br>
+330 - couple_with_heart_man_man
+<br>
+331 - couple_with_heart_woman_man
+<br>
+332 - couple_with_heart_woman_woman
+<br>
+333 - couplekiss_man_man
+<br>
+334 - couplekiss_man_woman
+<br>
+335 - couplekiss_woman_woman
+<br>
+336 - cow
+<br>
+337 - cow2
+<br>
+338 - cowboy_hat_face
+<br>
+339 - crab
+<br>
+340 - crayon
+<br>
+341 - credit_card
+<br>
+342 - crescent_moon
+<br>
+343 - cricket
+<br>
+344 - croatia
+<br>
+345 - crocodile
+<br>
+346 - croissant
+<br>
+347 - crossed_fingers
+<br>
+348 - crossed_flags
+<br>
+349 - crossed_swords
+<br>
+350 - crown
+<br>
+351 - cry
+<br>
+352 - crying_cat_face
+<br>
+353 - crystal_ball
+<br>
+354 - cuba
+<br>
+355 - cucumber
+<br>
+356 - cupid
+<br>
+357 - curacao
+<br>
+358 - curly_loop
+<br>
+359 - currency_exchange
+<br>
+360 - curry
+<br>
+361 - custard
+<br>
+362 - customs
+<br>
+363 - cyclone
+<br>
+364 - cyprus
+<br>
+365 - czech_republic
+<br>
+366 - dagger
+<br>
+367 - dancer
+<br>
+368 - dancers
+<br>
+369 - dancing_men
+<br>
+370 - dancing_women
+<br>
+371 - dango
+<br>
+372 - dark_sunglasses
+<br>
+373 - dart
+<br>
+374 - dash
+<br>
+375 - date
+<br>
+376 - de
+<br>
+377 - deciduous_tree
+<br>
+378 - deer
+<br>
+379 - denmark
+<br>
+380 - department_store
+<br>
+381 - derelict_house
+<br>
+382 - desert
+<br>
+383 - desert_island
+<br>
+384 - desktop_computer
+<br>
+385 - detective
+<br>
+386 - diamond_shape_with_a_dot_inside
+<br>
+387 - diamonds
+<br>
+388 - disappointed
+<br>
+389 - disappointed_relieved
+<br>
+390 - dizzy
+<br>
+391 - dizzy_face
+<br>
+392 - djibouti
+<br>
+393 - do_not_litter
+<br>
+394 - dog
+<br>
+395 - dog2
+<br>
+396 - dollar
+<br>
+397 - dolls
+<br>
+398 - dolphin
+<br>
+399 - dominica
+<br>
+400 - dominican_republic
+<br>
+401 - door
+<br>
+402 - doughnut
+<br>
+403 - dove
+<br>
+404 - dragon
+<br>
+405 - dragon_face
+<br>
+406 - dress
+<br>
+407 - dromedary_camel
+<br>
+408 - drooling_face
+<br>
+409 - droplet
+<br>
+410 - drum
+<br>
+411 - duck
+<br>
+412 - dvd
+<br>
+413 - e-mail
+<br>
+414 - eagle
+<br>
+415 - ear
+<br>
+416 - ear_of_rice
+<br>
+417 - earth_africa
+<br>
+418 - earth_americas
+<br>
+419 - earth_asia
+<br>
+420 - ecuador
+<br>
+421 - egg
+<br>
+422 - eggplant
+<br>
+423 - egypt
+<br>
+424 - eight
+<br>
+425 - eight_pointed_black_star
+<br>
+426 - eight_spoked_asterisk
+<br>
+427 - el_salvador
+<br>
+428 - electric_plug
+<br>
+429 - electron
+<br>
+430 - elephant
+<br>
+431 - email
+<br>
+432 - end
+<br>
+433 - envelope
+<br>
+434 - envelope_with_arrow
+<br>
+435 - equatorial_guinea
+<br>
+436 - eritrea
+<br>
+437 - es
+<br>
+438 - estonia
+<br>
+439 - ethiopia
+<br>
+440 - eu
+<br>
+441 - euro
+<br>
+442 - european_castle
+<br>
+443 - european_post_office
+<br>
+444 - european_union
+<br>
+445 - evergreen_tree
+<br>
+446 - exclamation
+<br>
+447 - expressionless
+<br>
+448 - eye
+<br>
+449 - eye_speech_bubble
+<br>
+450 - eyeglasses
+<br>
+451 - eyes
+<br>
+452 - face_with_head_bandage
+<br>
+453 - face_with_thermometer
+<br>
+454 - facepunch
+<br>
+455 - factory
+<br>
+456 - falkland_islands
+<br>
+457 - fallen_leaf
+<br>
+458 - family
+<br>
+459 - family_man_boy
+<br>
+460 - family_man_boy_boy
+<br>
+461 - family_man_girl
+<br>
+462 - family_man_girl_boy
+<br>
+463 - family_man_girl_girl
+<br>
+464 - family_man_man_boy
+<br>
+465 - family_man_man_boy_boy
+<br>
+466 - family_man_man_girl
+<br>
+467 - family_man_man_girl_boy
+<br>
+468 - family_man_man_girl_girl
+<br>
+469 - family_man_woman_boy
+<br>
+470 - family_man_woman_boy_boy
+<br>
+471 - family_man_woman_girl
+<br>
+472 - family_man_woman_girl_boy
+<br>
+473 - family_man_woman_girl_girl
+<br>
+474 - family_woman_boy
+<br>
+475 - family_woman_boy_boy
+<br>
+476 - family_woman_girl
+<br>
+477 - family_woman_girl_boy
+<br>
+478 - family_woman_girl_girl
+<br>
+479 - family_woman_woman_boy
+<br>
+480 - family_woman_woman_boy_boy
+<br>
+481 - family_woman_woman_girl
+<br>
+482 - family_woman_woman_girl_boy
+<br>
+483 - family_woman_woman_girl_girl
+<br>
+484 - faroe_islands
+<br>
+485 - fast_forward
+<br>
+486 - fax
+<br>
+487 - fearful
+<br>
+488 - feelsgood
+<br>
+489 - feet
+<br>
+490 - female_detective
+<br>
+491 - ferris_wheel
+<br>
+492 - ferry
+<br>
+493 - field_hockey
+<br>
+494 - fiji
+<br>
+495 - file_cabinet
+<br>
+496 - file_folder
+<br>
+497 - film_projector
+<br>
+498 - film_strip
+<br>
+499 - finland
+<br>
+500 - finnadie
+<br>
+501 - fire
+<br>
+502 - fire_engine
+<br>
+503 - fireworks
+<br>
+504 - first_quarter_moon
+<br>
+505 - first_quarter_moon_with_face
+<br>
+506 - fish
+<br>
+507 - fish_cake
+<br>
+508 - fishing_pole_and_fish
+<br>
+509 - fist
+<br>
+510 - fist_left
+<br>
+511 - fist_oncoming
+<br>
+512 - fist_raised
+<br>
+513 - fist_right
+<br>
+514 - five
+<br>
+515 - flags
+<br>
+516 - flashlight
+<br>
+517 - fleur_de_lis
+<br>
+518 - flight_arrival
+<br>
+519 - flight_departure
+<br>
+520 - flipper
+<br>
+521 - floppy_disk
+<br>
+522 - flower_playing_cards
+<br>
+523 - flushed
+<br>
+524 - fog
+<br>
+525 - foggy
+<br>
+526 - football
+<br>
+527 - footprints
+<br>
+528 - fork_and_knife
+<br>
+529 - fountain
+<br>
+530 - fountain_pen
+<br>
+531 - four
+<br>
+532 - four_leaf_clover
+<br>
+533 - fox_face
+<br>
+534 - fr
+<br>
+535 - framed_picture
+<br>
+536 - free
+<br>
+537 - french_guiana
+<br>
+538 - french_polynesia
+<br>
+539 - french_southern_territories
+<br>
+540 - fried_egg
+<br>
+541 - fried_shrimp
+<br>
+542 - fries
+<br>
+543 - frog
+<br>
+544 - frowning
+<br>
+545 - frowning_face
+<br>
+546 - frowning_man
+<br>
+547 - frowning_woman
+<br>
+548 - fu
+<br>
+549 - fuelpump
+<br>
+550 - full_moon
+<br>
+551 - full_moon_with_face
+<br>
+552 - funeral_urn
+<br>
+553 - gabon
+<br>
+554 - gambia
+<br>
+555 - game_die
+<br>
+556 - gb
+<br>
+557 - gear
+<br>
+558 - gem
+<br>
+559 - gemini
+<br>
+560 - georgia
+<br>
+561 - ghana
+<br>
+562 - ghost
+<br>
+563 - gibraltar
+<br>
+564 - gift
+<br>
+565 - gift_heart
+<br>
+566 - girl
+<br>
+567 - globe_with_meridians
+<br>
+568 - goal_net
+<br>
+569 - goat
+<br>
+570 - goberserk
+<br>
+571 - godmode
+<br>
+572 - golf
+<br>
+573 - golfing_man
+<br>
+574 - golfing_woman
+<br>
+575 - gorilla
+<br>
+576 - grapes
+<br>
+577 - greece
+<br>
+578 - green_apple
+<br>
+579 - green_book
+<br>
+580 - green_heart
+<br>
+581 - green_salad
+<br>
+582 - greenland
+<br>
+583 - grenada
+<br>
+584 - grey_exclamation
+<br>
+585 - grey_question
+<br>
+586 - grimacing
+<br>
+587 - grin
+<br>
+588 - grinning
+<br>
+589 - guadeloupe
+<br>
+590 - guam
+<br>
+591 - guardsman
+<br>
+592 - guardswoman
+<br>
+593 - guatemala
+<br>
+594 - guernsey
+<br>
+595 - guinea
+<br>
+596 - guinea_bissau
+<br>
+597 - guitar
+<br>
+598 - gun
+<br>
+599 - guyana
+<br>
+600 - haircut
+<br>
+601 - haircut_man
+<br>
+602 - haircut_woman
+<br>
+603 - haiti
+<br>
+604 - hamburger
+<br>
+605 - hammer
+<br>
+606 - hammer_and_pick
+<br>
+607 - hammer_and_wrench
+<br>
+608 - hamster
+<br>
+609 - hand
+<br>
+610 - handbag
+<br>
+611 - handshake
+<br>
+612 - hankey
+<br>
+613 - hash
+<br>
+614 - hatched_chick
+<br>
+615 - hatching_chick
+<br>
+616 - headphones
+<br>
+617 - hear_no_evil
+<br>
+618 - heart
+<br>
+619 - heart_decoration
+<br>
+620 - heart_eyes
+<br>
+621 - heart_eyes_cat
+<br>
+622 - heartbeat
+<br>
+623 - heartpulse
+<br>
+624 - hearts
+<br>
+625 - heavy_check_mark
+<br>
+626 - heavy_division_sign
+<br>
+627 - heavy_dollar_sign
+<br>
+628 - heavy_exclamation_mark
+<br>
+629 - heavy_heart_exclamation
+<br>
+630 - heavy_minus_sign
+<br>
+631 - heavy_multiplication_x
+<br>
+632 - heavy_plus_sign
+<br>
+633 - helicopter
+<br>
+634 - herb
+<br>
+635 - hibiscus
+<br>
+636 - high_brightness
+<br>
+637 - high_heel
+<br>
+638 - hocho
+<br>
+639 - hole
+<br>
+640 - honduras
+<br>
+641 - honey_pot
+<br>
+642 - honeybee
+<br>
+643 - hong_kong
+<br>
+644 - horse
+<br>
+645 - horse_racing
+<br>
+646 - hospital
+<br>
+647 - hot_pepper
+<br>
+648 - hotdog
+<br>
+649 - hotel
+<br>
+650 - hotsprings
+<br>
+651 - hourglass
+<br>
+652 - hourglass_flowing_sand
+<br>
+653 - house
+<br>
+654 - house_with_garden
+<br>
+655 - houses
+<br>
+656 - hugs
+<br>
+657 - hungary
+<br>
+658 - hurtrealbad
+<br>
+659 - hushed
+<br>
+660 - ice_cream
+<br>
+661 - ice_hockey
+<br>
+662 - ice_skate
+<br>
+663 - icecream
+<br>
+664 - iceland
+<br>
+665 - id
+<br>
+666 - ideograph_advantage
+<br>
+667 - imp
+<br>
+668 - inbox_tray
+<br>
+669 - incoming_envelope
+<br>
+670 - india
+<br>
+671 - indonesia
+<br>
+672 - information_desk_person
+<br>
+673 - information_source
+<br>
+674 - innocent
+<br>
+675 - interrobang
+<br>
+676 - iphone
+<br>
+677 - iran
+<br>
+678 - iraq
+<br>
+679 - ireland
+<br>
+680 - isle_of_man
+<br>
+681 - israel
+<br>
+682 - it
+<br>
+683 - izakaya_lantern
+<br>
+684 - jack_o_lantern
+<br>
+685 - jamaica
+<br>
+686 - japan
+<br>
+687 - japanese_castle
+<br>
+688 - japanese_goblin
+<br>
+689 - japanese_ogre
+<br>
+690 - jeans
+<br>
+691 - jersey
+<br>
+692 - jordan
+<br>
+693 - joy
+<br>
+694 - joy_cat
+<br>
+695 - joystick
+<br>
+696 - jp
+<br>
+697 - kaaba
+<br>
+698 - kazakhstan
+<br>
+699 - kenya
+<br>
+700 - key
+<br>
+701 - keyboard
+<br>
+702 - keycap_ten
+<br>
+703 - kick_scooter
+<br>
+704 - kimono
+<br>
+705 - kiribati
+<br>
+706 - kiss
+<br>
+707 - kissing
+<br>
+708 - kissing_cat
+<br>
+709 - kissing_closed_eyes
+<br>
+710 - kissing_heart
+<br>
+711 - kissing_smiling_eyes
+<br>
+712 - kiwi_fruit
+<br>
+713 - knife
+<br>
+714 - koala
+<br>
+715 - koko
+<br>
+716 - kosovo
+<br>
+717 - kr
+<br>
+718 - kuwait
+<br>
+719 - kyrgyzstan
+<br>
+720 - label
+<br>
+721 - lantern
+<br>
+722 - laos
+<br>
+723 - large_blue_circle
+<br>
+724 - large_blue_diamond
+<br>
+725 - large_orange_diamond
+<br>
+726 - last_quarter_moon
+<br>
+727 - last_quarter_moon_with_face
+<br>
+728 - latin_cross
+<br>
+729 - latvia
+<br>
+730 - laughing
+<br>
+731 - leaves
+<br>
+732 - lebanon
+<br>
+733 - ledger
+<br>
+734 - left_luggage
+<br>
+735 - left_right_arrow
+<br>
+736 - leftwards_arrow_with_hook
+<br>
+737 - lemon
+<br>
+738 - leo
+<br>
+739 - leopard
+<br>
+740 - lesotho
+<br>
+741 - level_slider
+<br>
+742 - liberia
+<br>
+743 - libra
+<br>
+744 - libya
+<br>
+745 - liechtenstein
+<br>
+746 - light_rail
+<br>
+747 - link
+<br>
+748 - lion
+<br>
+749 - lips
+<br>
+750 - lipstick
+<br>
+751 - lithuania
+<br>
+752 - lizard
+<br>
+753 - lock
+<br>
+754 - lock_with_ink_pen
+<br>
+755 - lollipop
+<br>
+756 - loop
+<br>
+757 - loud_sound
+<br>
+758 - loudspeaker
+<br>
+759 - love_hotel
+<br>
+760 - love_letter
+<br>
+761 - low_brightness
+<br>
+762 - luxembourg
+<br>
+763 - lying_face
+<br>
+764 - m
+<br>
+765 - macau
+<br>
+766 - macedonia
+<br>
+767 - madagascar
+<br>
+768 - mag
+<br>
+769 - mag_right
+<br>
+770 - mahjong
+<br>
+771 - mailbox
+<br>
+772 - mailbox_closed
+<br>
+773 - mailbox_with_mail
+<br>
+774 - mailbox_with_no_mail
+<br>
+775 - malawi
+<br>
+776 - malaysia
+<br>
+777 - maldives
+<br>
+778 - male_detective
+<br>
+779 - mali
+<br>
+780 - malta
+<br>
+781 - man
+<br>
+782 - man_artist
+<br>
+783 - man_astronaut
+<br>
+784 - man_cartwheeling
+<br>
+785 - man_cook
+<br>
+786 - man_dancing
+<br>
+787 - man_facepalming
+<br>
+788 - man_factory_worker
+<br>
+789 - man_farmer
+<br>
+790 - man_firefighter
+<br>
+791 - man_health_worker
+<br>
+792 - man_in_tuxedo
+<br>
+793 - man_judge
+<br>
+794 - man_juggling
+<br>
+795 - man_mechanic
+<br>
+796 - man_office_worker
+<br>
+797 - man_pilot
+<br>
+798 - man_playing_handball
+<br>
+799 - man_playing_water_polo
+<br>
+800 - man_scientist
+<br>
+801 - man_shrugging
+<br>
+802 - man_singer
+<br>
+803 - man_student
+<br>
+804 - man_teacher
+<br>
+805 - man_technologist
+<br>
+806 - man_with_gua_pi_mao
+<br>
+807 - man_with_turban
+<br>
+808 - mandarin
+<br>
+809 - mans_shoe
+<br>
+810 - mantelpiece_clock
+<br>
+811 - maple_leaf
+<br>
+812 - marshall_islands
+<br>
+813 - martial_arts_uniform
+<br>
+814 - martinique
+<br>
+815 - mask
+<br>
+816 - massage
+<br>
+817 - massage_man
+<br>
+818 - massage_woman
+<br>
+819 - mauritania
+<br>
+820 - mauritius
+<br>
+821 - mayotte
+<br>
+822 - meat_on_bone
+<br>
+823 - medal_military
+<br>
+824 - medal_sports
+<br>
+825 - mega
+<br>
+826 - melon
+<br>
+827 - memo
+<br>
+828 - men_wrestling
+<br>
+829 - menorah
+<br>
+830 - mens
+<br>
+831 - metal
+<br>
+832 - metro
+<br>
+833 - mexico
+<br>
+834 - micronesia
+<br>
+835 - microphone
+<br>
+836 - microscope
+<br>
+837 - middle_finger
+<br>
+838 - milk_glass
+<br>
+839 - milky_way
+<br>
+840 - minibus
+<br>
+841 - minidisc
+<br>
+842 - mobile_phone_off
+<br>
+843 - moldova
+<br>
+844 - monaco
+<br>
+845 - money_mouth_face
+<br>
+846 - money_with_wings
+<br>
+847 - moneybag
+<br>
+848 - mongolia
+<br>
+849 - monkey
+<br>
+850 - monkey_face
+<br>
+851 - monorail
+<br>
+852 - montenegro
+<br>
+853 - montserrat
+<br>
+854 - moon
+<br>
+855 - morocco
+<br>
+856 - mortar_board
+<br>
+857 - mosque
+<br>
+858 - motor_boat
+<br>
+859 - motor_scooter
+<br>
+860 - motorcycle
+<br>
+861 - motorway
+<br>
+862 - mount_fuji
+<br>
+863 - mountain
+<br>
+864 - mountain_bicyclist
+<br>
+865 - mountain_biking_man
+<br>
+866 - mountain_biking_woman
+<br>
+867 - mountain_cableway
+<br>
+868 - mountain_railway
+<br>
+869 - mountain_snow
+<br>
+870 - mouse
+<br>
+871 - mouse2
+<br>
+872 - movie_camera
+<br>
+873 - moyai
+<br>
+874 - mozambique
+<br>
+875 - mrs_claus
+<br>
+876 - muscle
+<br>
+877 - mushroom
+<br>
+878 - musical_keyboard
+<br>
+879 - musical_note
+<br>
+880 - musical_score
+<br>
+881 - mute
+<br>
+882 - myanmar
+<br>
+883 - nail_care
+<br>
+884 - name_badge
+<br>
+885 - namibia
+<br>
+886 - national_park
+<br>
+887 - nauru
+<br>
+888 - nauseated_face
+<br>
+889 - neckbeard
+<br>
+890 - necktie
+<br>
+891 - negative_squared_cross_mark
+<br>
+892 - nepal
+<br>
+893 - nerd_face
+<br>
+894 - netherlands
+<br>
+895 - neutral_face
+<br>
+896 - new
+<br>
+897 - new_caledonia
+<br>
+898 - new_moon
+<br>
+899 - new_moon_with_face
+<br>
+900 - new_zealand
+<br>
+901 - newspaper
+<br>
+902 - newspaper_roll
+<br>
+903 - next_track_button
+<br>
+904 - ng
+<br>
+905 - ng_man
+<br>
+906 - ng_woman
+<br>
+907 - nicaragua
+<br>
+908 - niger
+<br>
+909 - nigeria
+<br>
+910 - night_with_stars
+<br>
+911 - nine
+<br>
+912 - niue
+<br>
+913 - no_bell
+<br>
+914 - no_bicycles
+<br>
+915 - no_entry
+<br>
+916 - no_entry_sign
+<br>
+917 - no_good
+<br>
+918 - no_good_man
+<br>
+919 - no_good_woman
+<br>
+920 - no_mobile_phones
+<br>
+921 - no_mouth
+<br>
+922 - no_pedestrians
+<br>
+923 - no_smoking
+<br>
+924 - non-potable_water
+<br>
+925 - norfolk_island
+<br>
+926 - north_korea
+<br>
+927 - northern_mariana_islands
+<br>
+928 - norway
+<br>
+929 - nose
+<br>
+930 - notebook
+<br>
+931 - notebook_with_decorative_cover
+<br>
+932 - notes
+<br>
+933 - nut_and_bolt
+<br>
+934 - o
+<br>
+935 - o2
+<br>
+936 - ocean
+<br>
+937 - octocat
+<br>
+938 - octopus
+<br>
+939 - oden
+<br>
+940 - office
+<br>
+941 - oil_drum
+<br>
+942 - ok
+<br>
+943 - ok_hand
+<br>
+944 - ok_man
+<br>
+945 - ok_woman
+<br>
+946 - old_key
+<br>
+947 - older_man
+<br>
+948 - older_woman
+<br>
+949 - om
+<br>
+950 - oman
+<br>
+951 - on
+<br>
+952 - oncoming_automobile
+<br>
+953 - oncoming_bus
+<br>
+954 - oncoming_police_car
+<br>
+955 - oncoming_taxi
+<br>
+956 - one
+<br>
+957 - open_book
+<br>
+958 - open_file_folder
+<br>
+959 - open_hands
+<br>
+960 - open_mouth
+<br>
+961 - open_umbrella
+<br>
+962 - ophiuchus
+<br>
+963 - orange
+<br>
+964 - orange_book
+<br>
+965 - orthodox_cross
+<br>
+966 - outbox_tray
+<br>
+967 - owl
+<br>
+968 - ox
+<br>
+969 - package
+<br>
+970 - page_facing_up
+<br>
+971 - page_with_curl
+<br>
+972 - pager
+<br>
+973 - paintbrush
+<br>
+974 - pakistan
+<br>
+975 - palau
+<br>
+976 - palestinian_territories
+<br>
+977 - palm_tree
+<br>
+978 - panama
+<br>
+979 - pancakes
+<br>
+980 - panda_face
+<br>
+981 - paperclip
+<br>
+982 - paperclips
+<br>
+983 - papua_new_guinea
+<br>
+984 - paraguay
+<br>
+985 - parasol_on_ground
+<br>
+986 - parking
+<br>
+987 - part_alternation_mark
+<br>
+988 - partly_sunny
+<br>
+989 - passenger_ship
+<br>
+990 - passport_control
+<br>
+991 - pause_button
+<br>
+992 - paw_prints
+<br>
+993 - peace_symbol
+<br>
+994 - peach
+<br>
+995 - peanuts
+<br>
+996 - pear
+<br>
+997 - pen
+<br>
+998 - pencil
+<br>
+999 - pencil2
+<br>
+1000 - penguin
+<br>
+1001 - pensive
+<br>
+1002 - performing_arts
+<br>
+1003 - persevere
+<br>
+1004 - person_fencing
+<br>
+1005 - person_frowning
+<br>
+1006 - person_with_blond_hair
+<br>
+1007 - person_with_pouting_face
+<br>
+1008 - peru
+<br>
+1009 - philippines
+<br>
+1010 - phone
+<br>
+1011 - pick
+<br>
+1012 - pig
+<br>
+1013 - pig2
+<br>
+1014 - pig_nose
+<br>
+1015 - pill
+<br>
+1016 - pineapple
+<br>
+1017 - ping_pong
+<br>
+1018 - pisces
+<br>
+1019 - pitcairn_islands
+<br>
+1020 - pizza
+<br>
+1021 - place_of_worship
+<br>
+1022 - plate_with_cutlery
+<br>
+1023 - play_or_pause_button
+<br>
+1024 - point_down
+<br>
+1025 - point_left
+<br>
+1026 - point_right
+<br>
+1027 - point_up
+<br>
+1028 - point_up_2
+<br>
+1029 - poland
+<br>
+1030 - police_car
+<br>
+1031 - policeman
+<br>
+1032 - policewoman
+<br>
+1033 - poodle
+<br>
+1034 - poop
+<br>
+1035 - popcorn
+<br>
+1036 - portugal
+<br>
+1037 - post_office
+<br>
+1038 - postal_horn
+<br>
+1039 - postbox
+<br>
+1040 - potable_water
+<br>
+1041 - potato
+<br>
+1042 - pouch
+<br>
+1043 - poultry_leg
+<br>
+1044 - pound
+<br>
+1045 - pout
+<br>
+1046 - pouting_cat
+<br>
+1047 - pouting_man
+<br>
+1048 - pouting_woman
+<br>
+1049 - pray
+<br>
+1050 - prayer_beads
+<br>
+1051 - pregnant_woman
+<br>
+1052 - previous_track_button
+<br>
+1053 - prince
+<br>
+1054 - princess
+<br>
+1055 - printer
+<br>
+1056 - puerto_rico
+<br>
+1057 - punch
+<br>
+1058 - purple_heart
+<br>
+1059 - purse
+<br>
+1060 - pushpin
+<br>
+1061 - put_litter_in_its_place
+<br>
+1062 - qatar
+<br>
+1063 - question
+<br>
+1064 - rabbit
+<br>
+1065 - rabbit2
+<br>
+1066 - racehorse
+<br>
+1067 - racing_car
+<br>
+1068 - radio
+<br>
+1069 - radio_button
+<br>
+1070 - radioactive
+<br>
+1071 - rage
+<br>
+1072 - rage1
+<br>
+1073 - rage2
+<br>
+1074 - rage3
+<br>
+1075 - rage4
+<br>
+1076 - railway_car
+<br>
+1077 - railway_track
+<br>
+1078 - rainbow
+<br>
+1079 - rainbow_flag
+<br>
+1080 - raised_back_of_hand
+<br>
+1081 - raised_hand
+<br>
+1082 - raised_hand_with_fingers_splayed
+<br>
+1083 - raised_hands
+<br>
+1084 - raising_hand
+<br>
+1085 - raising_hand_man
+<br>
+1086 - raising_hand_woman
+<br>
+1087 - ram
+<br>
+1088 - ramen
+<br>
+1089 - rat
+<br>
+1090 - record_button
+<br>
+1091 - recycle
+<br>
+1092 - red_car
+<br>
+1093 - red_circle
+<br>
+1094 - registered
+<br>
+1095 - relaxed
+<br>
+1096 - relieved
+<br>
+1097 - reminder_ribbon
+<br>
+1098 - repeat
+<br>
+1099 - repeat_one
+<br>
+1100 - rescue_worker_helmet
+<br>
+1101 - restroom
+<br>
+1102 - reunion
+<br>
+1103 - revolving_hearts
+<br>
+1104 - rewind
+<br>
+1105 - rhinoceros
+<br>
+1106 - ribbon
+<br>
+1107 - rice
+<br>
+1108 - rice_ball
+<br>
+1109 - rice_cracker
+<br>
+1110 - rice_scene
+<br>
+1111 - right_anger_bubble
+<br>
+1112 - ring
+<br>
+1113 - robot
+<br>
+1114 - rocket
+<br>
+1115 - rofl
+<br>
+1116 - roll_eyes
+<br>
+1117 - roller_coaster
+<br>
+1118 - romania
+<br>
+1119 - rooster
+<br>
+1120 - rose
+<br>
+1121 - rosette
+<br>
+1122 - rotating_light
+<br>
+1123 - round_pushpin
+<br>
+1124 - rowboat
+<br>
+1125 - rowing_man
+<br>
+1126 - rowing_woman
+<br>
+1127 - ru
+<br>
+1128 - rugby_football
+<br>
+1129 - runner
+<br>
+1130 - running
+<br>
+1131 - running_man
+<br>
+1132 - running_shirt_with_sash
+<br>
+1133 - running_woman
+<br>
+1134 - rwanda
+<br>
+1135 - sa
+<br>
+1136 - sagittarius
+<br>
+1137 - sailboat
+<br>
+1138 - sake
+<br>
+1139 - samoa
+<br>
+1140 - san_marino
+<br>
+1141 - sandal
+<br>
+1142 - santa
+<br>
+1143 - sao_tome_principe
+<br>
+1144 - sassy_man
+<br>
+1145 - sassy_woman
+<br>
+1146 - satellite
+<br>
+1147 - satisfied
+<br>
+1148 - saudi_arabia
+<br>
+1149 - saxophone
+<br>
+1150 - school
+<br>
+1151 - school_satchel
+<br>
+1152 - scissors
+<br>
+1153 - scorpion
+<br>
+1154 - scorpius
+<br>
+1155 - scream
+<br>
+1156 - scream_cat
+<br>
+1157 - scroll
+<br>
+1158 - seat
+<br>
+1159 - secret
+<br>
+1160 - see_no_evil
+<br>
+1161 - seedling
+<br>
+1162 - selfie
+<br>
+1163 - senegal
+<br>
+1164 - serbia
+<br>
+1165 - seven
+<br>
+1166 - seychelles
+<br>
+1167 - shallow_pan_of_food
+<br>
+1168 - shamrock
+<br>
+1169 - shark
+<br>
+1170 - shaved_ice
+<br>
+1171 - sheep
+<br>
+1172 - shell
+<br>
+1173 - shield
+<br>
+1174 - shinto_shrine
+<br>
+1175 - ship
+<br>
+1176 - shipit
+<br>
+1177 - shirt
+<br>
+1178 - shit
+<br>
+1179 - shoe
+<br>
+1180 - shopping
+<br>
+1181 - shopping_cart
+<br>
+1182 - shower
+<br>
+1183 - shrimp
+<br>
+1184 - sierra_leone
+<br>
+1185 - signal_strength
+<br>
+1186 - singapore
+<br>
+1187 - sint_maarten
+<br>
+1188 - six
+<br>
+1189 - six_pointed_star
+<br>
+1190 - ski
+<br>
+1191 - skier
+<br>
+1192 - skull
+<br>
+1193 - skull_and_crossbones
+<br>
+1194 - sleeping
+<br>
+1195 - sleeping_bed
+<br>
+1196 - sleepy
+<br>
+1197 - slightly_frowning_face
+<br>
+1198 - slightly_smiling_face
+<br>
+1199 - slot_machine
+<br>
+1200 - slovakia
+<br>
+1201 - slovenia
+<br>
+1202 - small_airplane
+<br>
+1203 - small_blue_diamond
+<br>
+1204 - small_orange_diamond
+<br>
+1205 - small_red_triangle
+<br>
+1206 - small_red_triangle_down
+<br>
+1207 - smile
+<br>
+1208 - smile_cat
+<br>
+1209 - smiley
+<br>
+1210 - smiley_cat
+<br>
+1211 - smiling_imp
+<br>
+1212 - smirk
+<br>
+1213 - smirk_cat
+<br>
+1214 - smoking
+<br>
+1215 - snail
+<br>
+1216 - snake
+<br>
+1217 - sneezing_face
+<br>
+1218 - snowboarder
+<br>
+1219 - snowflake
+<br>
+1220 - snowman
+<br>
+1221 - snowman_with_snow
+<br>
+1222 - sob
+<br>
+1223 - soccer
+<br>
+1224 - solomon_islands
+<br>
+1225 - somalia
+<br>
+1226 - soon
+<br>
+1227 - sos
+<br>
+1228 - sound
+<br>
+1229 - south_africa
+<br>
+1230 - south_georgia_south_sandwich_islands
+<br>
+1231 - south_sudan
+<br>
+1232 - space_invader
+<br>
+1233 - spades
+<br>
+1234 - spaghetti
+<br>
+1235 - sparkle
+<br>
+1236 - sparkler
+<br>
+1237 - sparkles
+<br>
+1238 - sparkling_heart
+<br>
+1239 - speak_no_evil
+<br>
+1240 - speaker
+<br>
+1241 - speaking_head
+<br>
+1242 - speech_balloon
+<br>
+1243 - speedboat
+<br>
+1244 - spider
+<br>
+1245 - spider_web
+<br>
+1246 - spiral_calendar
+<br>
+1247 - spiral_notepad
+<br>
+1248 - spoon
+<br>
+1249 - squid
+<br>
+1250 - squirrel
+<br>
+1251 - sri_lanka
+<br>
+1252 - st_barthelemy
+<br>
+1253 - st_helena
+<br>
+1254 - st_kitts_nevis
+<br>
+1255 - st_lucia
+<br>
+1256 - st_pierre_miquelon
+<br>
+1257 - st_vincent_grenadines
+<br>
+1258 - stadium
+<br>
+1259 - star
+<br>
+1260 - star2
+<br>
+1261 - star_and_crescent
+<br>
+1262 - star_of_david
+<br>
+1263 - stars
+<br>
+1264 - station
+<br>
+1265 - statue_of_liberty
+<br>
+1266 - steam_locomotive
+<br>
+1267 - stew
+<br>
+1268 - stop_button
+<br>
+1269 - stop_sign
+<br>
+1270 - stopwatch
+<br>
+1271 - straight_ruler
+<br>
+1272 - strawberry
+<br>
+1273 - stuck_out_tongue
+<br>
+1274 - stuck_out_tongue_closed_eyes
+<br>
+1275 - stuck_out_tongue_winking_eye
+<br>
+1276 - studio_microphone
+<br>
+1277 - stuffed_flatbread
+<br>
+1278 - sudan
+<br>
+1279 - sun_behind_large_cloud
+<br>
+1280 - sun_behind_rain_cloud
+<br>
+1281 - sun_behind_small_cloud
+<br>
+1282 - sun_with_face
+<br>
+1283 - sunflower
+<br>
+1284 - sunglasses
+<br>
+1285 - sunny
+<br>
+1286 - sunrise
+<br>
+1287 - sunrise_over_mountains
+<br>
+1288 - surfer
+<br>
+1289 - surfing_man
+<br>
+1290 - surfing_woman
+<br>
+1291 - suriname
+<br>
+1292 - sushi
+<br>
+1293 - suspect
+<br>
+1294 - suspension_railway
+<br>
+1295 - swaziland
+<br>
+1296 - sweat
+<br>
+1297 - sweat_drops
+<br>
+1298 - sweat_smile
+<br>
+1299 - sweden
+<br>
+1300 - sweet_potato
+<br>
+1301 - swimmer
+<br>
+1302 - swimming_man
+<br>
+1303 - swimming_woman
+<br>
+1304 - switzerland
+<br>
+1305 - symbols
+<br>
+1306 - synagogue
+<br>
+1307 - syria
+<br>
+1308 - syringe
+<br>
+1309 - taco
+<br>
+1310 - tada
+<br>
+1311 - taiwan
+<br>
+1312 - tajikistan
+<br>
+1313 - tanabata_tree
+<br>
+1314 - tangerine
+<br>
+1315 - tanzania
+<br>
+1316 - taurus
+<br>
+1317 - taxi
+<br>
+1318 - tea
+<br>
+1319 - telephone
+<br>
+1320 - telephone_receiver
+<br>
+1321 - telescope
+<br>
+1322 - tennis
+<br>
+1323 - tent
+<br>
+1324 - thailand
+<br>
+1325 - thermometer
+<br>
+1326 - thinking
+<br>
+1327 - thought_balloon
+<br>
+1328 - three
+<br>
+1329 - thumbsdown
+<br>
+1330 - thumbsup
+<br>
+1331 - ticket
+<br>
+1332 - tickets
+<br>
+1333 - tiger
+<br>
+1334 - tiger2
+<br>
+1335 - timer_clock
+<br>
+1336 - timor_leste
+<br>
+1337 - tipping_hand_man
+<br>
+1338 - tipping_hand_woman
+<br>
+1339 - tired_face
+<br>
+1340 - tm
+<br>
+1341 - togo
+<br>
+1342 - toilet
+<br>
+1343 - tokelau
+<br>
+1344 - tokyo_tower
+<br>
+1345 - tomato
+<br>
+1346 - tonga
+<br>
+1347 - tongue
+<br>
+1348 - top
+<br>
+1349 - tophat
+<br>
+1350 - tornado
+<br>
+1351 - tr
+<br>
+1352 - trackball
+<br>
+1353 - tractor
+<br>
+1354 - traffic_light
+<br>
+1355 - train
+<br>
+1356 - train2
+<br>
+1357 - tram
+<br>
+1358 - triangular_flag_on_post
+<br>
+1359 - triangular_ruler
+<br>
+1360 - trident
+<br>
+1361 - trinidad_tobago
+<br>
+1362 - triumph
+<br>
+1363 - trolleybus
+<br>
+1364 - trollface
+<br>
+1365 - trophy
+<br>
+1366 - tropical_drink
+<br>
+1367 - tropical_fish
+<br>
+1368 - truck
+<br>
+1369 - trumpet
+<br>
+1370 - tshirt
+<br>
+1371 - tulip
+<br>
+1372 - tumbler_glass
+<br>
+1373 - tunisia
+<br>
+1374 - turkey
+<br>
+1375 - turkmenistan
+<br>
+1376 - turks_caicos_islands
+<br>
+1377 - turtle
+<br>
+1378 - tuvalu
+<br>
+1379 - tv
+<br>
+1380 - twisted_rightwards_arrows
+<br>
+1381 - two
+<br>
+1382 - two_hearts
+<br>
+1383 - two_men_holding_hands
+<br>
+1384 - two_women_holding_hands
+<br>
+1385 - u5272
+<br>
+1386 - u5408
+<br>
+1387 - u55b6
+<br>
+1388 - u6307
+<br>
+1389 - u6708
+<br>
+1390 - u6709
+<br>
+1391 - u6e80
+<br>
+1392 - u7121
+<br>
+1393 - u7533
+<br>
+1394 - u7981
+<br>
+1395 - u7a7a
+<br>
+1396 - uganda
+<br>
+1397 - uk
+<br>
+1398 - ukraine
+<br>
+1399 - umbrella
+<br>
+1400 - unamused
+<br>
+1401 - underage
+<br>
+1402 - unicorn
+<br>
+1403 - united_arab_emirates
+<br>
+1404 - unlock
+<br>
+1405 - up
+<br>
+1406 - upside_down_face
+<br>
+1407 - uruguay
+<br>
+1408 - us
+<br>
+1409 - us_virgin_islands
+<br>
+1410 - uzbekistan
+<br>
+1411 - v
+<br>
+1412 - vanuatu
+<br>
+1413 - vatican_city
+<br>
+1414 - venezuela
+<br>
+1415 - vertical_traffic_light
+<br>
+1416 - vhs
+<br>
+1417 - vibration_mode
+<br>
+1418 - video_camera
+<br>
+1419 - video_game
+<br>
+1420 - vietnam
+<br>
+1421 - violin
+<br>
+1422 - virgo
+<br>
+1423 - volcano
+<br>
+1424 - volleyball
+<br>
+1425 - vs
+<br>
+1426 - vulcan_salute
+<br>
+1427 - walking
+<br>
+1428 - walking_man
+<br>
+1429 - walking_woman
+<br>
+1430 - wallis_futuna
+<br>
+1431 - waning_crescent_moon
+<br>
+1432 - waning_gibbous_moon
+<br>
+1433 - warning
+<br>
+1434 - wastebasket
+<br>
+1435 - watch
+<br>
+1436 - water_buffalo
+<br>
+1437 - watermelon
+<br>
+1438 - wave
+<br>
+1439 - wavy_dash
+<br>
+1440 - waxing_crescent_moon
+<br>
+1441 - waxing_gibbous_moon
+<br>
+1442 - wc
+<br>
+1443 - weary
+<br>
+1444 - wedding
+<br>
+1445 - weight_lifting_man
+<br>
+1446 - weight_lifting_woman
+<br>
+1447 - western_sahara
+<br>
+1448 - whale
+<br>
+1449 - whale2
+<br>
+1450 - wheel_of_dharma
+<br>
+1451 - wheelchair
+<br>
+1452 - white_check_mark
+<br>
+1453 - white_circle
+<br>
+1454 - white_flag
+<br>
+1455 - white_flower
+<br>
+1456 - white_large_square
+<br>
+1457 - white_medium_small_square
+<br>
+1458 - white_medium_square
+<br>
+1459 - white_small_square
+<br>
+1460 - white_square_button
+<br>
+1461 - wilted_flower
+<br>
+1462 - wind_chime
+<br>
+1463 - wind_face
+<br>
+1464 - wine_glass
+<br>
+1465 - wink
+<br>
+1466 - wolf
+<br>
+1467 - woman
+<br>
+1468 - woman_artist
+<br>
+1469 - woman_astronaut
+<br>
+1470 - woman_cartwheeling
+<br>
+1471 - woman_cook
+<br>
+1472 - woman_facepalming
+<br>
+1473 - woman_factory_worker
+<br>
+1474 - woman_farmer
+<br>
+1475 - woman_firefighter
+<br>
+1476 - woman_health_worker
+<br>
+1477 - woman_judge
+<br>
+1478 - woman_juggling
+<br>
+1479 - woman_mechanic
+<br>
+1480 - woman_office_worker
+<br>
+1481 - woman_pilot
+<br>
+1482 - woman_playing_handball
+<br>
+1483 - woman_playing_water_polo
+<br>
+1484 - woman_scientist
+<br>
+1485 - woman_shrugging
+<br>
+1486 - woman_singer
+<br>
+1487 - woman_student
+<br>
+1488 - woman_teacher
+<br>
+1489 - woman_technologist
+<br>
+1490 - woman_with_turban
+<br>
+1491 - womans_clothes
+<br>
+1492 - womans_hat
+<br>
+1493 - women_wrestling
+<br>
+1494 - womens
+<br>
+1495 - world_map
+<br>
+1496 - worried
+<br>
+1497 - wrench
+<br>
+1498 - writing_hand
+<br>
+1499 - x
+<br>
+1500 - yellow_heart
+<br>
+1501 - yemen
+<br>
+1502 - yen
+<br>
+1503 - yin_yang
+<br>
+1504 - yum
+<br>
+1505 - zambia
+<br>
+1506 - zap
+<br>
+1507 - zero
+<br>
+1508 - zimbabwe
+<br>
+1509 - zipper_mouth_face
+<br>
+1510 - zzz
+<br>

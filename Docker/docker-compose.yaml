@@ -1,0 +1,52 @@
+version: "3"
+services:
+    postgres:
+        #restart: always
+        image: postgres:alpine     
+        environment:
+          POSTGRES_USER: myuser
+          POSTGRES_PASSWORD: mypass
+          POSTGRES_DB: mydb
+        #volumes:
+        #    - ./postgres/data:/var/lib/postgresql/data
+        ports:
+          - "5432:5432"
+    
+    redis:
+        image: redis:alpine
+        ports:
+            - "6379:6379"
+
+    postgrescontroller:
+        build:
+            context: ../Controllers/Postgres/
+        image: memcacheapp/postgrescontroller
+        environment:
+            URL: "http://localhost:8000"
+        depends_on:
+            - postgres
+        ports:
+            - 8000:8000
+
+    rediscontroller:
+        build:
+            context: ../Controllers/Redis/
+        image: memcacheapp/rediscontroller
+        environment:
+            URL: "http://localhost:5000"
+        depends_on:
+            - redis
+        ports:
+            - 5000:5000
+
+    application:
+        build:
+            context: ../Controllers/Application/
+        image: memcacheapp/application
+        environment:
+            URL: "http://localhost:8080"
+        depends_on:
+            - postgrescontroller
+            - rediscontroller
+        ports:
+            - 8080:8080
